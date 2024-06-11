@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/jdk-17">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="lib" path="dist/lib/commons-collections-3.2.1-1.0.0.jar"/>
+	<classpathentry kind="lib" path="dist/lib/commons-digester-2.1.jar"/>
+	<classpathentry kind="lib" path="dist/lib/commons-logging-1.2.1.1.jar"/>
+	<classpathentry kind="lib" path="dist/lib/DateChooser.jar"/>
+	<classpathentry kind="lib" path="dist/lib/groovy-all-2.0.8.jar"/>
+	<classpathentry kind="lib" path="dist/lib/itext-2.1.7.jar"/>
+	<classpathentry kind="lib" path="dist/lib/jasperreports-6.5.1.jar"/>
+	<classpathentry kind="lib" path="dist/lib/jcalendar-0.8.1.jar"/>
+	<classpathentry kind="lib" path="dist/lib/jdt-compiler-3.1.1.jar"/>
+	<classpathentry kind="lib" path="dist/lib/sqljdbc42.jar"/>
+	<classpathentry kind="lib" path="dist/QuanLyLuongSP_Tong.jar"/>
+	<classpathentry kind="lib" path="src/lib/commons-beanutils-1.8.3.jar"/>
+	<classpathentry kind="lib" path="src/lib/commons-collections-3.2.1-1.0.0.jar"/>
+	<classpathentry kind="lib" path="src/lib/commons-digester-2.1.jar"/>
+	<classpathentry kind="lib" path="src/lib/commons-logging-1.2.1.1.jar"/>
+	<classpathentry kind="lib" path="src/lib/DateChooser.jar"/>
+	<classpathentry kind="lib" path="src/lib/groovy-all-2.0.8.jar"/>
+	<classpathentry kind="lib" path="src/lib/itext-2.1.7.jar"/>
+	<classpathentry kind="lib" path="src/lib/jasperreports-6.5.1.jar"/>
+	<classpathentry kind="lib" path="src/lib/jcalendar-0.8.1.jar"/>
+	<classpathentry kind="lib" path="src/lib/jdt-compiler-3.1.1.jar"/>
+	<classpathentry kind="lib" path="src/lib/sqljdbc42.jar"/>
+	<classpathentry kind="lib" path="src/plugins/iReport-5.6.0.nbm"/>
+	<classpathentry kind="lib" path="src/plugins/jasperreports-components-plugin-5.6.0.nbm"/>
+	<classpathentry kind="lib" path="src/plugins/jasperreports-extensions-plugin-5.6.0.nbm"/>
+	<classpathentry kind="lib" path="src/plugins/jasperserver-plugin-5.6.0.nbm"/>
+	<classpathentry kind="lib" path="src/plugins/org-jdesktop-layout-RELEASE65.nbm"/>
+	<classpathentry kind="output" path="build/classes"/>
+</classpath>
